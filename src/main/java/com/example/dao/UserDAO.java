@@ -1,4 +1,4 @@
 package com.example.dao;
 
-public class zbdao {
+public class UserDAO {
 }
