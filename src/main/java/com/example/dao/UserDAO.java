@@ -1,9 +1,9 @@
 package com.example.dao;
 
+import com.example.entity.User;
+
+import java.util.List;
+
 public interface UserDAO {
-    //zb 添加
-    String login();
-
-    // 张恩  1111111
-
+    List<User> findAll();
 }
